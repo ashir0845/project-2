@@ -1,0 +1,19 @@
+/* .red{
+    background-color: blue;
+    color: white;
+}
+.blue{
+    color:blue;
+}
+  */
+ body{
+    text-align: center;
+ }
+  div{
+    height: 100px;
+    width: 500px;
+    border: 1px solid black;
+    background-color: antiquewhite;
+    display: flex;
+    margin: auto;
+  }
